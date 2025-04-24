@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-QA Engineer with 6+ months of testing and automation experience and 7+ years in web development. I specialize in manual testing and implementing automation frameworks with Selenium and Pytest. I'm passionate about delivering high-quality products through efficient testing strategies and automation.
+QA Engineer with 3+ Years of testing and automation experience and 7+ years in web development. I specialize in manual testing and implementing automation frameworks with Selenium and Pytest. I'm passionate about delivering high-quality products through efficient testing strategies and automation.
 
 ## 🛠️ Skills
 
